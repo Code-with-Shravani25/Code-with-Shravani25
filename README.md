@@ -19,4 +19,4 @@
 
 ### 📫 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/shravani-budharam-325b8a219/)
-- 🧑‍💻 [GitHub](https://github.com/Code-withShravani25)
+- 🧑‍💻 [GitHub](https://github.com/Code-with-Shravani25)
