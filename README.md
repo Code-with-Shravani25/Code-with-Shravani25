@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Shravani Budharam
-🌱 Dedicated DevOps Engineer fresher with practical knowledge of CI/CD pipelines, Docker containers, Kubernetes deployments, and Git-based workflows. Experienced in using Jenkins, GitHub Actions, and Ansible to automate builds and deployments. Comfortable with AWS and Azure cloud services. Committed to streamlining infrastructure and improving deployment speed and reliability through automation.
+🌱 Dedicated DevOps Engineer fresher with practical knowledge of CI/CD pipelines, Docker containers, Kubernetes deployments, and Git-based workflows. Experienced in using Jenkins, Ansible, Maven, Terraform, Docker, Kubernetes to automate builds and deployments. Comfortable with AWS and Azure cloud services. Committed to streamlining infrastructure and improving deployment speed and reliability through automation.
 
 ### 🛠️ Tools & Technologies:
 - CI/CD: Jenkins
