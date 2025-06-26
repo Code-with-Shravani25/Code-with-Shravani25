@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Shravani Budharam
-🌱 Aspiring DevOps Engineer | 💻 Passionate about automating and building scalable infrastructure
+🌱 Dedicated DevOps Engineer fresher with practical knowledge of CI/CD pipelines, Docker containers, Kubernetes deployments, and Git-based workflows. Experienced in using Jenkins, GitHub Actions, and Ansible to automate builds and deployments. Comfortable with AWS and Azure cloud services. Committed to streamlining infrastructure and improving deployment speed and reliability through automation.
 
 ### 🛠️ Tools & Technologies:
 - CI/CD: Jenkins
@@ -13,9 +13,10 @@
 ### 📌 My DevOps Projects
 | Project | Tools Used | Description |
 |--------|------------|-------------|
-| [CI/CD with Jenkins](https://github.com/Code-withShravani25/CICD-Pipelines/Project3) | Jenkins, Maven, Docker | Automated pipeline to build and deploy Java app on Docker |
-| [Kubernetes Deployment](https://github.com/Code-withShravani25/CICD-Pipelines/Project7) | Jenkins, K8s, DockerHub | CI/CD pipeline to deploy on EKS cluster |
-| [Ansible + Jenkins](https://github.com/Code-withShravani25/CICD-Pipelines/Project2) | Ansible, Jenkins, Tomcat | Setup webserver using Ansible playbooks via Jenkins pipeline |
+| [CI/CD with Jenkins](https://github.com/Code-with-Shravani25/CICD-Pipelines/tree/main/Project%203) | Jenkins, Maven, Docker | Automated pipeline to build and deploy Java app on Docker |
+| [Kubernetes Deployment](https://github.com/Code-with-Shravani25/CICD-Pipelines/tree/main/Project%207) | Jenkins, K8s, DockerHub | CI/CD pipeline to deploy on EKS cluster |
+| [Ansible + Jenkins](https://github.com/Code-with-Shravani25/CICD-Pipelines/tree/main/Project%202) | Ansible, Jenkins, Tomcat | Setup webserver using Ansible playbooks via Jenkins pipeline |
+| [Ansible + Jenkins + Docker](https://github.com/Code-with-Shravani25/CICD-Pipelines/tree/main/Project%204) | Ansible, Jenkins, Docker, DockerHub| Setup webserver using Ansible playbooks via Jenkins pipeline |
 
 ### 📫 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/shravani-budharam-325b8a219/)
