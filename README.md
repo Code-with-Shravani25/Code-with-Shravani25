@@ -20,4 +20,4 @@
 
 ### 📫 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/shravani-budharam-325b8a219/)
-- 🧑‍💻 [Gmail](shravanibudharam25@gmail.com)
+- 🧑‍💻 [Gmail](mailto:shravanibudharam25@gmail.com)
